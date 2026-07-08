@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/multithreading/09 - Thread Lifecycle.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09 - Thread Lifecycle"
+              "title": "README"
             }
           }
         ],
@@ -198,11 +198,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "a45b987491cbc892",
+  "active": "d9cc2cdf35c4f98d",
   "lastOpenFiles": [
+    "Spring Custoim annotation.md",
+    "Untitled.base",
+    "Url  shortner.md",
+    "Untitled 1.base",
+    "01-Authentication-Flow.md",
+    "java dssa.md",
+    "java/multithreading/09 - Thread Lifecycle.md",
     "README.md",
     "java/multithreading/00 - Index.md",
-    "java/multithreading/09 - Thread Lifecycle.md",
     "java/multithreading/08 - FutureTask.md",
     "java/multithreading/07 - Future.md",
     "java/multithreading/06 - Callable.md",
@@ -223,13 +229,7 @@
     "Spring-Security-Handbook/02-Spring-Security-Architecture/01 Spring Security Overview.md",
     "java/Enum.md",
     "Computer-Fundamental/Bios.md",
-    "Computer-Fundamental/Binary number System.md",
-    "java-streams-obsidian-notebook/java-streams-notebook/02-Why-Streams.md",
-    "java-streams-obsidian-notebook/java-streams-notebook/00-Home.md",
-    "java DSA/ByteStream.md",
     "Untitled 2.base",
-    "Untitled.base",
-    "Untitled 1.base",
     "Untitled.canvas",
     "dsa-arrays-strings-obsidian-notebook/dsa-notebook",
     "dsa-arrays-strings-obsidian-notebook",
