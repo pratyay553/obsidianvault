@@ -1,0 +1,10 @@
+# GitHub Security Checklist
+
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
+## Notes
+

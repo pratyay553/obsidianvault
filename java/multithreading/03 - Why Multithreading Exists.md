@@ -327,14 +327,14 @@ All three tasks run **concurrently**, so the total wall-clock time is approximat
 
 ## Cheat Sheet
 
-|Reason|Explanation|
-|---|---|
-|Multi-core CPUs|Single thread only uses 1 core; multithreading uses many|
-|Blocking/slow operations|Other threads can keep working while one thread waits|
-|High concurrent user load|Servers must handle many users at once, not one at a time|
-|Java's design|`Thread`, `Runnable`, `synchronized` built in since Java 1.0|
-|I/O-bound tasks|Big benefit from multithreading|
-|CPU-bound tasks|Benefit capped by number of physical cores|
+| Reason                    | Explanation                                                  |
+| ------------------------- | ------------------------------------------------------------ |
+| Multi-core CPUs           | Single thread only uses 1 core; multithreading uses many     |
+| Blocking/slow operations  | Other threads can keep working while one thread waits        |
+| High concurrent user load | Servers must handle many users at once, not one at a time    |
+| Java's design             | `Thread`, `Runnable`, `synchronized` built in since Java 1.0 |
+| I/O-bound tasks           | Big benefit from multithreading                              |
+| CPU-bound tasks           | Benefit capped by number of physical cores                   |
 
 ---
 

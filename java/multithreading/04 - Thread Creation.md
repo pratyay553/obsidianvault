@@ -448,6 +448,8 @@ The trap here is that beginners assume "fewer moving parts" (just extend `Thread
 **Q:** What are the three common ways to define thread logic in Java? **A:** Extending `Thread`, implementing `Runnable`, or using a lambda expression (shorthand for `Runnable`).
 
 **Q:** Why is implementing `Runnable` generally preferred over extending `Thread`? **A:** It separates the task from the thread, avoids Java's single-inheritance limitation, and integrates with thread pools.
+or
+"I prefer implementing `Runnable` because it separates the task from the thread that executes it, making the code cleaner and more reusable. It also allows my class to extend another class since Java supports only single inheritance. Finally, `Runnable` works directly with the `ExecutorService`, which is the recommended way to manage threads in modern Java applications."
 
 **Q:** Can you restart a `Thread` object after it has finished running? **A:** No — calling `.start()` again throws `IllegalThreadStateException`; you must create a new `Thread` object.
 

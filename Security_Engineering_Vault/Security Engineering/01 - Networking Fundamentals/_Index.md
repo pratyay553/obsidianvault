@@ -1,0 +1,25 @@
+# 01 - Networking Fundamentals
+
+## Contents
+
+- [[OSI Model]]
+- [[TCP-IP]]
+- [[TCP Handshake]]
+- [[UDP]]
+- [[IP]]
+- [[DNS]]
+- [[HTTP]]
+- [[HTTPS]]
+- [[TLS]]
+- [[SSL]]
+- [[VPN]]
+- [[Firewall]]
+- [[Proxy]]
+- [[Reverse Proxy]]
+- [[NAT]]
+- [[CIDR]]
+- [[Ports]]
+- [[Routing]]
+- [[Switching]]
+- [[VLAN]]
+- [[DNS Resolution]]

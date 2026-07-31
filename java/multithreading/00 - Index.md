@@ -202,14 +202,17 @@ Section 14 & 15 (Interview Prep + Practice)
 
 Use this table to track your progress. Update the "Status" column as you complete each note.
 
-| # | Note | Status |
-|---|------|--------|
-| 00 | Index | ✅ Done |
-| 01 | What is Multithreading | ⬜ Pending |
-| 02 | Process vs Thread | ⬜ Pending |
-| 03 | Why Multithreading Exists | ⬜ Pending |
-| ... | ... | ⬜ Pending |
-| 90 | Final Interview Revision Guide | ⬜ Pending |
+| #   | Note                      | Status    |
+| --- | ------------------------- | --------- |
+| 00  | Index                     | ✅ Done    |
+| 01  | What is Multithreading    | ⬜ Pending |
+| 02  | Process vs Thread         | ⬜ Pending |
+| 03  | Why Multithreading Exists | ⬜ Pending |
+| 04  | Thread Creation           | ⬜ Pending |
+| 05  | Runnable                  | ⬜ Pending |
+| 06  |                           |           |
+| 07  |                           |           |
+|     |                           |           |
 
 *(Full 90-row table will be maintained as notes are generated — this is a living document.)*
 

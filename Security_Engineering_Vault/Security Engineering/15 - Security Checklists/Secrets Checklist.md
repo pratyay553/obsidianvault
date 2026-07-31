@@ -1,0 +1,10 @@
+# Secrets Security Checklist
+
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
+## Notes
+

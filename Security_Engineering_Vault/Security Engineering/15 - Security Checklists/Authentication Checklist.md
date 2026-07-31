@@ -1,0 +1,10 @@
+# Authentication Security Checklist
+
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
+## Notes
+

@@ -1,0 +1,10 @@
+# Logging Security Checklist
+
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
+## Notes
+
