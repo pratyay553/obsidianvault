@@ -19,13 +19,13 @@ last_reviewed: 2026-07-23
 
 ### HS256 vs RS256
 
-| | HS256 (Symmetric) | RS256 (Asymmetric) |
-|-|-------------------|-------------------|
-| Algorithm | HMAC-SHA256 | RSA-SHA256 |
-| Sign key | Shared secret | Private key |
-| Verify key | Same shared secret | Public key (safe to distribute) |
-| Architecture fit | Single service | Multi-service / microservices |
-| Risk | Secret exposure signs + verifies | Private key exposure only allows signing |
+|                  | HS256 (Symmetric)                | RS256 (Asymmetric)                       |
+| ---------------- | -------------------------------- | ---------------------------------------- |
+| Algorithm        | HMAC-SHA256                      | RSA-SHA256                               |
+| Sign key         | Shared secret                    | Private key                              |
+| Verify key       | Same shared secret               | Public key (safe to distribute)          |
+| Architecture fit | Single service                   | Multi-service / microservices            |
+| Risk             | Secret exposure signs + verifies | Private key exposure only allows signing |
 
 ### JWT Structure
 ```
