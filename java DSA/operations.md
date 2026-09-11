@@ -661,19 +661,19 @@ When solving DSA:
 
 Ask:
 
-|Need|Think|
-|---|---|
-|Fast lookup|HashMap|
-|Unique values|HashSet|
-|Sorted values|TreeSet|
-|Sorted key-value|TreeMap|
-|Index access|ArrayList|
-|Frequent insertion/removal|LinkedList|
-|FIFO|Queue|
-|LIFO|Stack|
-|Highest priority|Heap|
-|Relationships|Graph|
-|Prefix search|Trie|
+| Need                       | Think      |     |
+| -------------------------- | ---------- | --- |
+| Fast lookup                | HashMap    |     |
+| Unique values              | HashSet    |     |
+| Sorted values              | TreeSet    |     |
+| Sorted key-value           | TreeMap    |     |
+| Index access               | ArrayList  |     |
+| Frequent insertion/removal | LinkedList |     |
+| FIFO                       | Queue      |     |
+| LIFO                       | Stack      |     |
+| Highest priority           | Heap       |     |
+| Relationships              | Graph      |     |
+| Prefix search              | Trie       |     |
 
 ---
 

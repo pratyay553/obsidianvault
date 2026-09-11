@@ -855,17 +855,17 @@ Learn to:
 
 # Suggested 18-Month Timeline
 
-|Months|Focus|
-|---|---|
-|1–2|Java fundamentals + Core Java|
-|3–5|DSA + SQL + DBMS|
-|6–8|Spring Boot + REST APIs + JPA + Security|
-|9–10|React + Full Stack projects|
-|11–12|Kafka + Redis + Microservices + Docker|
-|13–14|Kubernetes + CI/CD + AWS + Monitoring|
-|15–16|AI engineering (RAG, agents, Spring AI, vector databases)|
-|17|System Design + Low-Level Design|
-|18|Mock interviews, portfolio polishing, resume, GitHub, and job applications|
+| Months | Focus                                                                      |
+| ------ | -------------------------------------------------------------------------- |
+| 1–2    | Java fundamentals + Core Java                                              |
+| 3–5    | DSA + SQL + DBMS                                                           |
+| 6–8    | Spring Boot + REST APIs + JPA + Security                                   |
+| 9–10   | React + Full Stack projects                                                |
+| 11–12  | Kafka + Redis + Microservices + Docker                                     |
+| 13–14  | Kubernetes + CI/CD + AWS + Monitoring                                      |
+| 15–16  | AI engineering (RAG, agents, Spring AI, vector databases)                  |
+| 17     | System Design + Low-Level Design                                           |
+| 18     | Mock interviews, portfolio polishing, resume, GitHub, and job applications |
 
 ## The mindset that creates long-term value
 

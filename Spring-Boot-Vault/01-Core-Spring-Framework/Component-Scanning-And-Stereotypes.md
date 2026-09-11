@@ -44,7 +44,7 @@ last_reviewed: 2026-07-23
 )
 ```
 
-### `@Configuration` CGLIB Proxying
+### `@Configuration` CGLIB(Code Generation Library) Proxying
 - `@Configuration` classes are subclassed by CGLIB at runtime.
 - Calling `@Bean` methods directly from another `@Bean` method returns the **same singleton** — not a new instance.
 - `@Configuration(proxyBeanMethods = false)` disables this for lighter-weight config.

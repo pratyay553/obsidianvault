@@ -17,22 +17,22 @@ Study attacks to understand how to prevent, detect, and mitigate them - not to e
 
 ## Vault Map
 
-- [[_Index|01 - Networking Fundamentals]]
-- [[_Index|02 - Network Layer Attacks]]
-- [[_Index|03 - Transport Layer Attacks]]
-- [[_Index|04 - Application Layer Attacks]]
-- [[_Index|05 - Authentication & Authorization]]
-- [[_Index|06 - Cryptography]]
-- [[_Index|07 - Secure Coding (Java)]]
-- [[_Index|08 - Spring Security]]
-- [[_Index|09 - API Security]]
-- [[_Index|10 - Cloud Security]]
-- [[_Index|11 - Docker & Kubernetes Security]]
-- [[_Index|12 - Monitoring & Detection]]
-- [[_Index|13 - Incident Response]]
-- [[_Index|14 - OWASP]]
-- [[_Index|15 - Security Checklists]]
-- [[_Index|16 - Labs]]
+- [[Security_Engineering_Vault/Security Engineering/Resources/_Index|01 - Networking Fundamentals]]
+- [[Security_Engineering_Vault/Security Engineering/Resources/_Index|02 - Network Layer Attacks]]
+- [[Security_Engineering_Vault/Security Engineering/Resources/_Index|03 - Transport Layer Attacks]]
+- [[Security_Engineering_Vault/Security Engineering/Resources/_Index|04 - Application Layer Attacks]]
+- [[Security_Engineering_Vault/Security Engineering/Resources/_Index|05 - Authentication & Authorization]]
+- [[Security_Engineering_Vault/Security Engineering/Resources/_Index|06 - Cryptography]]
+- [[Security_Engineering_Vault/Security Engineering/Resources/_Index|07 - Secure Coding (Java)]]
+- [[Security_Engineering_Vault/Security Engineering/Resources/_Index|08 - Spring Security]]
+- [[Security_Engineering_Vault/Security Engineering/Resources/_Index|09 - API Security]]
+- [[Security_Engineering_Vault/Security Engineering/Resources/_Index|10 - Cloud Security]]
+- [[Security_Engineering_Vault/Security Engineering/Resources/_Index|11 - Docker & Kubernetes Security]]
+- [[Security_Engineering_Vault/Security Engineering/Resources/_Index|12 - Monitoring & Detection]]
+- [[Security_Engineering_Vault/Security Engineering/Resources/_Index|13 - Incident Response]]
+- [[Security_Engineering_Vault/Security Engineering/Resources/_Index|14 - OWASP]]
+- [[Security_Engineering_Vault/Security Engineering/Resources/_Index|15 - Security Checklists]]
+- [[Security_Engineering_Vault/Security Engineering/Resources/_Index|16 - Labs]]
 
 ## Progress Tracker
 
