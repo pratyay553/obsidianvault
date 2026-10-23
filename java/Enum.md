@@ -1,4 +1,4 @@
-# Java Enum — Complete Master Guide 🎯
+	# Java Enum — Complete Master Guide 🎯
 
 > [!IMPORTANT] This notebook is designed as a **permanent reference** — for interviews, university courses, competitive programming, and production engineering. Read it top to bottom once, then use it as a lookup tool forever.
 

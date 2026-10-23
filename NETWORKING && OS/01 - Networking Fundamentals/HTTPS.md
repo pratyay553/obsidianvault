@@ -312,7 +312,7 @@ Used for actual data transfer because it is faster.
 
 ## 3. Hashing
 
-Used for integrity checking.
+	Used for integrity checking.
 
 Example:
 
