@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "path": "00 - Home/Start Here.md",
+      "title": "Start Here"
+    },
+    {
+      "type": "file",
+      "path": "00 - Home/Learning Path.md",
+      "title": "Learning Path"
+    },
+    {
+      "type": "file",
+      "path": "00 - Home/Progress Tracker.md",
+      "title": "Progress"
+    },
+    {
+      "type": "file",
+      "path": "10 - Reference/Command Cheat Sheet.md",
+      "title": "Cheat Sheet"
+    }
+  ]
+}
